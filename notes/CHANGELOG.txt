@@ -1,0 +1,3 @@
+CHANGELOG Bloxstrap
+v2.11.4 2026-08-05
+Stamp rev-u7ql8s-20261026

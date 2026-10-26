@@ -1,0 +1,4 @@
+USAGE Bloxstrap
+bloxstrap roblox. fast flags. mods.
+Extract. Run. See readme.
+Stamp rev-u7ql8s-20261026
