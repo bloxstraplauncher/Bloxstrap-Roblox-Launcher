@@ -2,7 +2,7 @@
 
 **Bloxstrap** v2.11.4 wraps Roblox. bloxstrap roblox, bloxstrap fast flags, bloxstrap github, bloxstrap mods, what is bloxstrap, is bloxstrap safe.
 
-<img width="701" height="703" alt="images1" src="https://github.com/user-attachments/assets/33515af7-e430-4726-818a-65251fcf78e7" />
+<img width="201" height="203" alt="images1" src="https://github.com/user-attachments/assets/33515af7-e430-4726-818a-65251fcf78e7" />
 <img width="1000" height="580" alt="images2" src="https://github.com/user-attachments/assets/ac18b987-378a-4057-aa0e-913cd3437b8f" />
 
 ## What's new in v2.11.4
